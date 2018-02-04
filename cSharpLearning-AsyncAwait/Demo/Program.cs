@@ -14,7 +14,7 @@ namespace Demo
         private static void Main(string[] args)
         {
             Console.WriteLine("Main thread started");
-            Thread thread = new Thread(new ThreadStart(Iteration));
+            Thread thread = new Thread(Iteration);
             thread.Start();
             Console.WriteLine("Main Thread ends");
         }
@@ -27,7 +27,5 @@ namespace Demo
                 Thread.Sleep(1000);
             }
         }
-
-
     }
 }
