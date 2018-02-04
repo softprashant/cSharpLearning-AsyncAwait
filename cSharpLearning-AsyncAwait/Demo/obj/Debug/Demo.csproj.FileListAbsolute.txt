@@ -1,0 +1,7 @@
+C:\Users\N96414\Source\Repos\cSharpLearning-AsyncAwait\cSharpLearning-AsyncAwait\Demo\bin\Debug\Demo.exe.config
+C:\Users\N96414\Source\Repos\cSharpLearning-AsyncAwait\cSharpLearning-AsyncAwait\Demo\bin\Debug\Demo.exe
+C:\Users\N96414\Source\Repos\cSharpLearning-AsyncAwait\cSharpLearning-AsyncAwait\Demo\bin\Debug\Demo.pdb
+C:\Users\N96414\Source\Repos\cSharpLearning-AsyncAwait\cSharpLearning-AsyncAwait\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\N96414\Source\Repos\cSharpLearning-AsyncAwait\cSharpLearning-AsyncAwait\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\N96414\Source\Repos\cSharpLearning-AsyncAwait\cSharpLearning-AsyncAwait\Demo\obj\Debug\Demo.exe
+C:\Users\N96414\Source\Repos\cSharpLearning-AsyncAwait\cSharpLearning-AsyncAwait\Demo\obj\Debug\Demo.pdb
