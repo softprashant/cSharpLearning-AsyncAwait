@@ -13,10 +13,17 @@ namespace Demo
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Main thread started");
-            Thread thread = new Thread(Iteration);
-            thread.Start();
-            Console.WriteLine("Main Thread ends");
+            #region Start
+
+            //            Console.WriteLine("Main thread started");
+            //            Thread thread = new Thread(Iteration);
+            //            thread.Start();
+            //            Console.WriteLine("Main Thread ends");
+
+
+            #endregion
+            ThreadStaticExplained.ThreadStaticAllowsToHaveIndivualCopyOfVairablesWithAreScopedGlobaly();
+            Console.ReadLine();
         }
 
         private static void Iteration()
